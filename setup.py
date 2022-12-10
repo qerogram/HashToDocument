@@ -6,13 +6,13 @@ with open("README.md", "r") as fh:
     
 setuptools.setup(
     name="HashToDocx", 
-    version="1.0.0",
+    version="1.0.1",
     author="Qerogram",
     author_email="qerogram@google.com",
-    description="",
+    description="Write File Information to docx(for Forensic)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/qerogram/HashToDocument",
+    url="https://github.com/qerogram/HashToDocx",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

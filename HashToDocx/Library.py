@@ -3,7 +3,7 @@
 import docx, os, platform, hashlib, time
 from datetime import datetime
 
-class HashToDocument() :
+class HashToDocx() :
     NOT_SUPPORTED_OPTION = 'Not Supported Option'
 
     
